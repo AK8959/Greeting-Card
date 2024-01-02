@@ -54,12 +54,16 @@ h2 {
     border-radius: 40%;
     padding-left: 10px;
     padding-right: 10px;
+    box-shadow: 0 0 50px rgba(255, 255, 0, 0.5);
+    background-color: rgba(220, 164, 101, 0.639);
+
+
 }
 
 h2:hover {
     background-color: linear-gradient(circle, black, green);
     scale: 1.1;
-    background: radial-gradient(circle, #37397e, #0b0a0a);
+    background: radial-gradient(circle, #13189b, #0b0a0a);
 }
 
 .sec {
